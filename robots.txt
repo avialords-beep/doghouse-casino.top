@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin
+Sitemap: https://doghouse-casino.top/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Disallow: /cgi-bin
+Clean-param: partner /
+Sitemap: https://doghouse-casino.top/sitemap.xml
